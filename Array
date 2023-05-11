@@ -1,1 +1,62 @@
-#include<stdio.h>
+//USER DEFINED PROGRAMME
+//ADDDITION
+//#include<stdio.h>
+//int main()
+//{int a,b,add;
+//printf("enter two numbers");
+//scanf("%d %d",&a,&b);
+//add=a+b;
+//printf("aaddition is %d",add);
+//}
+
+//SUBSTRACTION
+//#include<stdio.h>
+//int main()
+//{int a,b;
+//printf("enter two numbers");
+//scanf("%d %d",&a,&b);
+//printf("substraction  is %d",a-b);
+//}
+
+//MULTIPLIACTION
+//#include<stdio.h>
+//int main()
+//{int a,b;
+//printf("enter two numbers");
+//scanf("%d %d",&a,&b);
+//printf("multiplication  is %d",a*b);
+//}
+
+//DIVISION
+//#include<stdio.h>
+//int main()
+//{int a,b;
+//printf("enter two numbers");
+//scanf("%d %d",&a,&b);
+//printf("division is %d",a/b);
+//}
+
+//MODULUS
+//#include<stdio.h>
+//int main()
+//{int a,b;
+//printf("enter two numbers");
+//scanf("%d %d",&a,&b);
+//printf("mod is %d",a%b);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
